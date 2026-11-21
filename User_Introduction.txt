@@ -1,0 +1,5 @@
+Name - Karan Gupta
+Admission Number = 2026B01010391
+Course = Btech
+Branch = CSE 
+Section = CSE-7
